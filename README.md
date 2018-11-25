@@ -6,7 +6,7 @@ Adding two integer vectors with CUDA
 - memory management (manual)
 - launching kernel (tweaking params)
 - kernel configuration
-- no erro checking
+- no error checking
 
 ## Compilation
 
