@@ -14,4 +14,4 @@ Adding two integer vectors with CUDA
       nvcc -o out/add-vectors add-vectors.cu
 
 ## TODOs
-- Translate README.md to frensh
+- Translate README.md to french
