@@ -10,8 +10,8 @@ Adding two integer vectors with CUDA
 
 ## Compilation
 
-      # run from repo dir
-      nvcc -o out/add-vectors add-vectors.cu
+    # run from repo dir
+    nvcc -o out/add-vectors add-vectors.cu
 
 ## TODOs
 - Translate README.md to french
