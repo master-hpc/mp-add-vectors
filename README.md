@@ -1,5 +1,5 @@
 # "Add Vectors"
-Adding two integer vectors with CUDA
+> Adding two integer vectors with CUDA.
 
 ## Points to focus on
 - from CPU to GPU code ("vector addition")
